@@ -5,55 +5,23 @@ This repository will be an example of some of the coding projects and excersises
 
 ## Getting Started
 
-Files are all accessible via Github. A request will need to be made to me, I will have to grant access in order for a pull to be possible. The way to access my files works as any other repository. Simply do a git clone, followed by a git pull in order to get a copy of all of the files in my repository. Once a pull has been made, simply navigate to the location where your files are stored through the terminal or a GUI. 
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Files are all accessible via Github. A request will need to be made to me, I will have to grant access in order for a pull to be possible. The way to access my files works as any other repository. Simply do a git clone, followed by a git pull in order to get a copy of all of the files in my repository. Once a pull has been made, simply navigate to the location where your files are stored through the terminal or a GUI. From there you will be able to access, test, and modify, several examples of code that I have worked on over the past few years. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Most of the files in this repository are going to be in the form a C or C++ file. That being said, any text editor will be able to open and modify the coding examples that I am including. Some examples of text editors include ATOM, JEDIT, Notepad, Notepad++. 
 
-```
-Give examples
-```
+Instructions for downloading ATOM can be found at - https://flight-manual.atom.io/getting-started/sections/installing-atom/
+Instructions for downloading Jedit can be found at - www.jedit.org/index.php?page=download
 
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Note - Notepad comes standard on most Windows machines so consult your application files because you may not need to install anything at all. 
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Once a text editing program has been downloaded/located, you will need to access terminal or CMD.exe in order to compile and run these test programs. 
 
-### Break down into end to end tests
+Steps for compiling - https://msdn.microsoft.com/en-us/library/ms235639.aspx?f=255&MSPPError=-2147217396
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -81,7 +49,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Denison License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
