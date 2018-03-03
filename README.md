@@ -1,9 +1,11 @@
 
-# Project Title
+# Denison Computer Science Coding Examples
 
-One Paragraph of project description goes here
+This repository will be an example of some of the coding projects and excersises we complete here at Denison University. The files included will consist of old projects and coding practices stidents could expect to see through classes the first two years. All files in this repository should only be used as an reference of one way to tackle some of the problems. This is not a location where people can simply copy work or code. Rather this should be used as an example of what we do here at Denison University, as well as a location where I can safely store work for access on a different multitude of machines.  
 
 ## Getting Started
+
+Files are all accessible via Github. A request will need to be made to me, I will have to grant access in order for a pull to be possible. The way to access my files works as any other repository. Simply do a git clone, followed by a git pull in order to get a copy of all of the files in my repository. Once a pull has been made, simply navigate to the location where your files are stored through the terminal or a GUI. 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
