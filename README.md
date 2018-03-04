@@ -22,11 +22,6 @@ Once a text editing program has been downloaded/located, you will need to access
 
 Steps for compiling - https://msdn.microsoft.com/en-us/library/ms235639.aspx?f=255&MSPPError=-2147217396
 
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
@@ -35,17 +30,10 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Contributers include Josh Blaz, and Ryan Anderson. 
 
-## Versioning
+Both were partners on sections of some of these projects and deserve credit for the work that they have done. 
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -53,12 +41,10 @@ This project is licensed under the Denison License - see the [LICENSE.md](LICENS
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Ryan Anderson
+* Dr. Matt Kretchmar
+* Josh Blaz
+* DA 301
+* Dr. Sarah Supp
 
-This is a public repository for Ryan Stevenson that contains the code for previously taken
-computer science classes. 
-
-Data in this project includes project code, in class examples, and more. 
 
