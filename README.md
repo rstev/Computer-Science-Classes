@@ -24,11 +24,11 @@ Steps for compiling - https://msdn.microsoft.com/en-us/library/ms235639.aspx?f=2
 
 
 ## Files & Issues
-hello.cc - A simple hello world! , c file for elementary school computation. 
-proj1.cpp - Project1 from CS173. It is a game similar to plants vs. zombies. Issues include a compiling issue. Copied over from a linux system and therefore some issues happend in the process
-proj2.cpp - This project is simply a string separater. It reads in a file and gives a file back with each string on a different line
-proj7.cpp - This project is a list of sorting algorithms
-moviekiosk.cpp - This project file is a fake movie kiosk rental what users can interact with. 
+* hello.cc - A simple hello world! , c file for elementary school computation. 
+* proj1.cpp - Project1 from CS173. It is a game similar to plants vs. zombies. Issues include a compiling issue. Copied over from a linux system and therefore some issues happend in the process
+* proj2.cpp - This project is simply a string separater. It reads in a file and gives a file back with each string on a different line
+* proj7.cpp - This project is a list of sorting algorithms
+* moviekiosk.cpp - This project file is a fake movie kiosk rental what users can interact with. 
 
 
 ## Built With
