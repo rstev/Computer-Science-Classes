@@ -25,33 +25,18 @@ Steps for compiling - https://msdn.microsoft.com/en-us/library/ms235639.aspx?f=2
 
 ## Files & Issues
 * hello.cc - A simple hello world! , c file for elementary school computation. - I own this file
-* proj1.cpp - Project1 from CS173. It is a game similar to plants vs. zombies. Issues include a compiling issue because the project is a preliminary version that is not complete and does not run.
-* moviekiosk.cpp - This project file is a fake movie kiosk rental what users can interact with. 
-
 
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Contributers include Josh Blaz, and Ryan Anderson. 
-
-Both were partners on sections of some of these projects and deserve credit for the work that they have done. 
+ 
 
 
 ## License
 
 This project is licensed under the Denison License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Ryan Anderson
-* Dr. Matt Kretchmar
-* Josh Blaz
-* DA 301
-* Dr. Sarah Supp
 
 
